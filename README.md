@@ -1,5 +1,5 @@
 # LM324-voltage-multiplier
-Analog circuit in LTSpice for multiplying positive voltages and signals
+Analog circuit in LTSpice for multiplying positive voltages and signals. I've mnade this project mostly to learn how does voltage multiplier work, and to learn github.
 
 
 # Requirements:
